@@ -50,7 +50,7 @@
         background: rgb(238, 230, 230);
         border: 0;
         border-bottom: 1px salid #33f;
-        bottom: -10px;
+        bottom: 10px;
 
 
      /*background: #fff;
@@ -96,7 +96,7 @@
     float: left;
     width: 30%;
      
-    background: rgb(148, 148, 98); /*cor do fundo do navegador localizado em minhas atividades*/
+    background: rgb(138, 193, 132); /*cor do fundo do navegador localizado em minhas atividades*/
     padding: 20px;
   }
 
@@ -121,10 +121,11 @@
   }
 
   footer {
-    background-color: rgb(12, 8, 8);
+    background-color: rgb(118, 198, 27);
     padding: 10px;
     text-align: center;
-    color: rgb(209, 202, 202);
+    color: rgb(21, 18, 18);
+  
   }
 
   @media (max-width: 600px) {
@@ -168,5 +169,5 @@
       color: rgb(52, 100, 33);
     }
 
-
+   
     
